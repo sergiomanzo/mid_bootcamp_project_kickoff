@@ -1,1 +1,1 @@
-# mid_bootcamp_prouyect_kickoof
+# mid_bootcamp_project_kickoff
